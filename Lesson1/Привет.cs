@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Lesson1
 {
-    internal class Привет
+    internal class ПриветТебе
     {
+        
     }
 }
